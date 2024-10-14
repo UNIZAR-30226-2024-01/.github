@@ -9,7 +9,7 @@ Reune a 5 amigos y disfruta realizando acusaciones, reuniendo pruebas y compitie
 Cuidado al entrar en el edificio y ¡mucha suerte a todos! 
 
 
-[¡Entra y juega!](http://ec2-51-20-246-74.eu-north-1.compute.amazonaws.com)
+<!-- ([¡Entra y juega!](http://ec2-51-20-246-74.eu-north-1.compute.amazonaws.com) -->
 
 ---
 Proyecto realizado por:
